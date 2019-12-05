@@ -1,7 +1,7 @@
 
 
 
-<img src = "countwords/test.png">
+<img src = "../countwords/test.png">
 
 <h1 align="center">
   <br>
