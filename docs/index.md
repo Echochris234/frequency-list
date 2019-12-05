@@ -1,6 +1,7 @@
 
 
 <p align= "center">
+  <img src = "../countwords/whale.png">
 <img src = "../countwords/test.png">
 </p>
 
