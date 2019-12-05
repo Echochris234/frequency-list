@@ -15,7 +15,6 @@
   <br><br>
   
   <p align="center">'
-  <img src = "../countwords/test.png">
  
 </p>
 
