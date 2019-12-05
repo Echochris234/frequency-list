@@ -26,6 +26,7 @@
 
 ## How to use
 * Open program using eclipse IDE for best results*
+* Main Java file found in directory path countwords/src/main/java/com/countwords/
 * Create a text file labled "lyrics.txt" and paste the lyrics to the song
   you would like to find the frequency of each word
 * find a png image you would like to turn into a wordcloud image and rename to "whale.png" for simplicity
