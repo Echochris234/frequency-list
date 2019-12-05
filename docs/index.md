@@ -1,7 +1,8 @@
 
 
-
+<p align= "center">
 <img src = "../countwords/test.png">
+</p>
 
 <h1 align="center">
   <br>
