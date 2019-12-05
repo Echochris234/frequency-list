@@ -16,12 +16,15 @@
   <a href="#credits">Credits</a>
 </p>
 
+<br><br>
 
 ## Key Features
 
 * Reads in a non-empty text file
 * Outputs a text file containg the frequency of the words
 * Outputs a word cloud png image 
+
+<br><br>
 
 
 ## How to use
@@ -34,6 +37,8 @@
 * A file labled frequencyList.txt should have been created in your directory containing the word and count
 * A png image lable test.png should have been created demonstrating the words in a wordcloud format
     (words take up non white space)
+    
+ <br><br>
 
 ## Credits
   credits to https://github.com/kennycason/kumo for the wordcloud API
