@@ -52,5 +52,5 @@ How to use
  <br><br>
 
 Credits
-  credits to <href>Kenny Cason https://github.com/kennycason/kumo</href> for the wordcloud API
+  credits to <a href= "https://github.com/kennycason/kumo">Kenny Cason </a> for the wordcloud API
 
