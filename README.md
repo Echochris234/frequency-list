@@ -19,6 +19,7 @@
 <br><br>
 
 ## Key Features
+<br>
 
 * Reads in a non-empty text file
 * Outputs a text file containg the frequency of the words
@@ -28,6 +29,7 @@
 
 
 ## How to use
+<br>
 * Open program using eclipse IDE for best results*
 * Main Java file found in directory path countwords/src/main/java/com/countwords/
 * Create a text file labled "lyrics.txt" and paste the lyrics to the song
