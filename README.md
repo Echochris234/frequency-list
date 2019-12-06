@@ -1,9 +1,6 @@
 
 
-<p align= "center">
-  <img src = "countwords/whale.png">
-<img src = "countwords/test.png">
-</p>
+
 
 <h1 align="center">
   <br>
@@ -58,4 +55,15 @@ How to use
 
 Credits
   credits to <a href= "https://github.com/kennycason/kumo">Kenny Cason </a> for the wordcloud API
+  
+  
+  
+  
+  
+ <p align= "left">
+  <img src = "countwords/whale.png">
+ </p>
+<p align = "right"  
+<img src = "countwords/test.png">
+</p>
 
