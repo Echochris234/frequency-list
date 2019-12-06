@@ -60,10 +60,8 @@ Credits
   
   
   
- <p align= "left">
-  <img src = "countwords/whale.png">
- </p>
-<p align = "right"  
+ <p align= "center">
+  <img src = "countwords/whale.png">  
 <img src = "countwords/test.png">
 </p>
 
