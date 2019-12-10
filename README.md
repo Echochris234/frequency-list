@@ -73,10 +73,11 @@ How to use
  
  
 
-Credits
+<h3>Credits</h3>
+<p>
   credits to <a href= "https://github.com/kennycason/kumo">Kenny Cason </a> for the wordcloud API
   Kanye West - "Hey Mama"
-  
+</p>
   
   
   
