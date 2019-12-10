@@ -52,6 +52,26 @@ How to use
     (words take up non white space)
     
  <br><br>
+ 
+ <h2> Project Details </h2>
+ 
+ <p>  The Data Structure used to to calculate the word frequencies was a HashMap which used the word as the key value
+      and the count as the value stored. For each word inserted if the word existed within the map the value was incremented
+      by '1' if the word did not exist the word was added to the map and its value was set to 1. The data structures offers   
+      quick insertion and find of a specific value based on the key value pairs. 
+  </p>
+  
+  <br><br>
+  
+  <p>  The song chosen was Kanye West "Hey Mama" from his 2005 Album labled "Late Registration" which won a few awards      
+       between the years of 2005-2006 some include Billboard R&B/Hip-Hop Awards "Top Rap Album" and Hungarian Music Awards   
+       "Best Foreign Rap or Hip-Hop Album of the Year". The song "Hey Mama", dedicated to his mother Donda West who passed
+       in 2007 due to complications from surgery, was Kanye West only pillar of support at the time. To no surprise aside 
+       from common stop words the word "mama" was the word that appeared the most 11 times throughout the song.
+  </p>
+ 
+ 
+ 
 
 Credits
   credits to <a href= "https://github.com/kennycason/kumo">Kenny Cason </a> for the wordcloud API
