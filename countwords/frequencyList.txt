@@ -1,4 +1,3 @@
-1: '
 12: a
 3: about
 1: act
@@ -31,8 +30,7 @@
 1: brought
 3: but
 1: call
-2: can
-1: can't
+3: can
 1: cant
 1: capable
 1: caught
@@ -46,7 +44,7 @@
 1: color
 1: come
 2: could
-1: couldn't
+1: couldn
 1: cry
 1: curl
 2: cuz
@@ -56,10 +54,10 @@
 1: december
 1: depends
 1: did
-1: didn't
+1: didn
 3: do
 1: doctorate
-3: don't
+3: don
 1: donda
 1: echelon
 1: else
@@ -101,14 +99,12 @@
 1: highly
 1: homemade
 1: hurt
-22: i
-7: i'm
+29: i
 2: if
 3: imma
 3: in
 1: is
-4: it
-1: it's
+5: it
 1: jackson
 1: jag
 1: job
@@ -136,6 +132,7 @@
 1: loud
 2: love
 1: low
+7: m
 1: make
 1: makin
 11: mama
@@ -148,7 +145,7 @@
 2: mine
 5: mommy
 2: more
-1: mother's
+1: mother
 1: moved
 6: my
 1: never
@@ -175,10 +172,11 @@
 2: proud
 1: prove
 1: put
+2: re
 1: restaurant
 1: ride
 1: right
-1: s
+5: s
 2: said
 3: say
 2: school
@@ -198,18 +196,18 @@
 1: started
 1: still
 1: supported
+6: t
 2: take
 1: talk
 1: tears
 5: tell
 1: telling
 1: thank
-5: that
-1: that's
+6: that
 10: the
 1: them
 1: then
-1: there's
+1: there
 1: they
 2: things
 3: this
@@ -251,7 +249,6 @@
 1: ya
 3: yall
 2: years
-31: you
-2: you're
+33: you
 5: your
-Total words = 256
+Total words = 253
